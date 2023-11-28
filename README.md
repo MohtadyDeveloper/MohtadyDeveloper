@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohtadyDeveloper
 - 👀 I’m interested in programming, music and workout.
-- 🌱 I’m currently learning Test Complete
+- 🌱 I’m currently learning a lot from my new job at wipro
 - 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me https://www.linkedin.com/in/mohtady-ekmail-35ab08b/ 
 
